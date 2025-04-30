@@ -39,5 +39,5 @@ fn main() {
 - K-Pop Release Radar <img src=https://media.giphy.com/media/0BAAFUWrilh6EptcWu/giphy.gif?cid=ecf05e47kltj3rruqztvtmmi0vaapm8zc8nk87tqvbrivsc3&ep=v1_stickers_search&rid=giphy.gif&ct=s width=35>
 
 
-<h2>In my downtime... <img src=https://media.giphy.com/media/jRYqwHs66bFYr4HAjh/giphy.gif?cid=ecf05e472jfebo27kuemlwu06p5gzpaov6cg5kvjx9n50u8u&ep=v1_stickers_search&rid=giphy.gif&ct=s width=35></h2>
+<h2>In my downtime... <img src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo4cXR1YW1vMDU3cW83dWVzNnBnYzk3Y2Z5d2UwdmI2bDAxNzlxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GBOtPDTWV0MMPSSNrO/giphy.gif width=40></h2>
 <p>When I'm not typing code or browsing through the Stanford Encyclopedia of Philosophy, you can typically find me catching fish in Dave the Diver 🎣, tending to my chickens in Stardew Valley 🐓, or blasting elemental bolts in Skyrim ⚡️</p>
