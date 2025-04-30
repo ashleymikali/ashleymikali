@@ -38,5 +38,6 @@ fn main() {
 <h2>Things I'm currently working on: <img src=https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif?cid=ecf05e47ffxwt2no9ss9jg3rl9vetnh0f5qjt1mof007073x&ep=v1_stickers_search&rid=giphy.gif&ct=s width=40></h2>
 - K-Pop Release Radar <img src=https://media.giphy.com/media/0BAAFUWrilh6EptcWu/giphy.gif?cid=ecf05e47kltj3rruqztvtmmi0vaapm8zc8nk87tqvbrivsc3&ep=v1_stickers_search&rid=giphy.gif&ct=s width=35>
 
-<h2>In my downtime... <img src=https://media.giphy.com/media/36AnzD7rsNEmdkZ0cr/giphy.gif?cid=ecf05e47iiy6s5mar5oaobqs2fv4pp11airc0vrsexcrtpok&ep=v1_stickers_search&rid=giphy.gif&ct=s width=35></h2>
+
+<h2>In my downtime... <img src=https://media.giphy.com/media/jRYqwHs66bFYr4HAjh/giphy.gif?cid=ecf05e472jfebo27kuemlwu06p5gzpaov6cg5kvjx9n50u8u&ep=v1_stickers_search&rid=giphy.gif&ct=s width=35></h2>
 <p>When I'm not typing code or browsing through the Stanford Encyclopedia of Philosophy, you can typically find me catching fish in Dave the Diver 🎣, tending to my chickens in Stardew Valley 🐓, or blasting elemental bolts in Skyrim ⚡️</p>
